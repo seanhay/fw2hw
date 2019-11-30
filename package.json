@@ -1,0 +1,28 @@
+{
+  "name": "fw2hw",
+  "version": "1.0.0",
+  "description": "A simple utility to automatically convert fullwidth characters to halfwidth characters in input fields",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanhay/fw2hw.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "conversion",
+    "fullwidth",
+    "halfwidth",
+    "character",
+    "input"
+  ],
+  "author": "Sean Hay <sean@seanhay.com> (https://seanhay.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seanhay/fw2hw/issues"
+  },
+  "homepage": "https://github.com/seanhay/fw2hw#readme"
+}
